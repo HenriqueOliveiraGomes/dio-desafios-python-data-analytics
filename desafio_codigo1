@@ -14,3 +14,4 @@ else:
       print("Explorador: 1 passo")
     else:
       print(f"Explorador: {passos + 1} passos")
+#codigo aprovado

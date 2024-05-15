@@ -6,3 +6,4 @@ nova_capacidade = capacidade_atual + aumento_capacidade
 
 # TODO: Imprima a nova capacidade
 print(nova_capacidade)
+#codigo aprovado

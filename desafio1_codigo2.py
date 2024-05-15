@@ -9,3 +9,4 @@ for i in range(3):
 print("Lista de itens:")
 for item in itens:
     print(f"- {item}")
+#aprovado

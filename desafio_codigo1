@@ -1,0 +1,15 @@
+# Desafio: A Aventura do Explorador
+
+# Entrada
+quantidade_passos = int(input())
+
+#TODO
+if quantidade_passos<0:
+    print("Não e pssivel explorar para tras!")
+elif quantidade_passos ==0:
+    print("Nenhum passo dado na floresta.")
+elif quantidade_passos ==1:
+    print("Explorador: 1 passo")
+else:
+    for passos in range(quantidade_passos):
+        print(f"Explorador: {passos + 1} passos")
